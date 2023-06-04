@@ -1,0 +1,8 @@
+C:\C#\Project4.4\obj\Debug\Project4.4.csproj.AssemblyReference.cache
+C:\C#\Project4.4\obj\Debug\Project4.4.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project4.4\obj\Debug\Project4.4.csproj.CoreCompileInputs.cache
+C:\C#\Project4.4\bin\Debug\Project4.4.exe.config
+C:\C#\Project4.4\bin\Debug\Project4.4.exe
+C:\C#\Project4.4\bin\Debug\Project4.4.pdb
+C:\C#\Project4.4\obj\Debug\Project4.4.exe
+C:\C#\Project4.4\obj\Debug\Project4.4.pdb

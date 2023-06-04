@@ -1,0 +1,8 @@
+C:\C#\Project5.5\obj\Debug\Project5.5.csproj.AssemblyReference.cache
+C:\C#\Project5.5\obj\Debug\Project5.5.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project5.5\obj\Debug\Project5.5.csproj.CoreCompileInputs.cache
+C:\C#\Project5.5\bin\Debug\Project5.5.exe.config
+C:\C#\Project5.5\bin\Debug\Project5.5.exe
+C:\C#\Project5.5\bin\Debug\Project5.5.pdb
+C:\C#\Project5.5\obj\Debug\Project5.5.exe
+C:\C#\Project5.5\obj\Debug\Project5.5.pdb

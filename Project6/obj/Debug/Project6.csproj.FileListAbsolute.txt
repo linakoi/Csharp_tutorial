@@ -1,0 +1,8 @@
+C:\C#\Project6\bin\Debug\Project6.exe.config
+C:\C#\Project6\bin\Debug\Project6.exe
+C:\C#\Project6\bin\Debug\Project6.pdb
+C:\C#\Project6\obj\Debug\Project6.csproj.AssemblyReference.cache
+C:\C#\Project6\obj\Debug\Project6.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project6\obj\Debug\Project6.csproj.CoreCompileInputs.cache
+C:\C#\Project6\obj\Debug\Project6.exe
+C:\C#\Project6\obj\Debug\Project6.pdb
